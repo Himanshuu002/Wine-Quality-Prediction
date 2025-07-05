@@ -5,7 +5,7 @@
 This project focuses on predicting the quality of red wine using various machine learning algorithms based on physicochemical tests. The dataset is publicly available and widely used for classification tasks in ML.
 
 
-📁 Dataset
+ Dataset
 Source: UCI Machine Learning Repository
 
 
@@ -19,7 +19,7 @@ Target: Wine Quality (Score between 0–10)
 
 
 
-🧠 Machine Learning Workflow
+Machine Learning Workflow
 Data Collection
 Load the dataset using pandas.
 
@@ -57,7 +57,7 @@ Classification Report,
 ROC Curve (if applicable)..
 
 
-🛠️ Requirements
+ Requirements
 Typical libraries used:
 
 pandas,
@@ -67,7 +67,7 @@ seaborn,
 scikit-learn..
 
 
-🚀 How to Run
+How to Run
 Clone the repo
 git clone https://github.com/Himanshuu002/wine-quality-prediction.git
 
@@ -80,7 +80,7 @@ Launch the Jupyter Notebook
 jupyter notebook Wine_quality_prediction_.ipynb
 
 
-📊 Sample Visualizations
+Sample Visualizations
 Correlation heatmap showing relation among features
 
 
@@ -89,5 +89,6 @@ Countplot of wine quality classes
 
 Feature importance chart from Random Forest
 
-📌 Conclusion
+Conclusion
+
 The project highlights the importance of feature selection, normalization, and model comparison in predictive analytics. Random Forest or SVM usually perform best for this dataset.
