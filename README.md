@@ -67,14 +67,6 @@ seaborn,
 scikit-learn..
 
 
-How to Run
-Clone the repo
-git clone https://github.com/Himanshuu002/wine-quality-prediction.git
-
-
-Navigate to the project folder
-cd wine-quality-prediction
-
 
 Launch the Jupyter Notebook
 jupyter notebook Wine_quality_prediction_.ipynb
