@@ -1,11 +1,11 @@
 
 
-🍷 Wine Quality Prediction
+## 🍷 Wine Quality Prediction
 
 This project focuses on predicting the quality of red wine using various machine learning algorithms based on physicochemical tests. The dataset is publicly available and widely used for classification tasks in ML.
 
 
- Dataset
+# Dataset
 Source: UCI Machine Learning Repository
 
 
@@ -19,7 +19,8 @@ Target: Wine Quality (Score between 0–10)
 
 
 
-Machine Learning Workflow
+## Machine Learning Workflow 
+
 Data Collection
 Load the dataset using pandas.
 
@@ -57,7 +58,7 @@ Classification Report,
 ROC Curve (if applicable)..
 
 
- Requirements
+Requirements
 Typical libraries used:
 
 pandas,
